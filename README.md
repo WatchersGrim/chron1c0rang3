@@ -1,1 +1,1 @@
-# Chron1c0rang3 cydia repo!
+# Chronic0range cydia repo!
