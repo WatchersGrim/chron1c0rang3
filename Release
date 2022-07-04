@@ -1,0 +1,8 @@
+Origin: Chronic0range
+Label: Chronic0range
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Chronic0range - a cydia testbench repo
