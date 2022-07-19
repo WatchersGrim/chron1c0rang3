@@ -1,0 +1,26 @@
+<package>
+	<id>com.watchersgrim.citrussb</id>
+	<name>CitrusSB</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate,ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>Tweak to allow modification of carrier text.</shortDescription>
+	<descriptionlist>
+		<description>CitrusSB is a tweak that allows the modification of the carrier text on iPhones. Text can be modified in settings to users liking. *note* requires a respring for chsnges to take effect.</description>
+	</descriptionlist>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>WatchersGrim's Cydia Repor</name>
+			<url>https://watchersgrim.github.io</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
