@@ -16,16 +16,16 @@ Depiction: https://watchersgrim.github.io/depictions/?p=com.watchersgrim.chronic
 Name: Chronic0range Test Tweak
 
 Package: com.watchersgrim.citrussb
-Version: 0.0.1-1+debug
+Version: 0.0.3-1+debug
 Architecture: iphoneos-arm
 Maintainer: WatchersGrim
 Installed-Size: 408
 Depends: mobilesubstrate, ws.hbang.common (>= 1.17)
-Filename: ./debs/com.watchersgrim.citrussb_0.0.1_iphoneos-arm.deb
-Size: 12598
-MD5sum: b0b58f8420496edd7e0872e91f2c261e
-SHA1: 4d6b2ca8dfb3cda1c1caef9ef515fa40f36216d0
-SHA256: 334c6bd1903d07b9036772cba32f707169186e57facee0a287dc114bf7d34484
+Filename: ./debs/com.watchersgrim.citrussb_0.0.3_iphoneos-arm.deb
+Size: 13286
+MD5sum: 7265438a88b60ea9acc4252a722166db
+SHA1: 5f7f5b093ee03642c0990403f06b5cf43878b575
+SHA256: 4bd078fbb98e7bf3ff483fae6addd89c7e6599b697275c36ccb50441228f2869
 Section: Tweaks
 Description: A tweak to allow you to edit your carrier text.
 Author: WatchersGrim
