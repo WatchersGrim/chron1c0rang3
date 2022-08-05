@@ -8,7 +8,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate,ws.hbang.common</package>
+		<package>mobilesubstrate</package>
 	</dependencies>
 	<shortDescription>Tweak to allow modification of carrier text.</shortDescription>
 	<descriptionlist>
@@ -20,7 +20,7 @@
 		<link>
 			<name>WatchersGrim's Cydia Repo</name>
 			<url>https://watchersgrim.github.io</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 	</links>
 </package>

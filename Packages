@@ -1,20 +1,3 @@
-Package: com.watchersgrim.chronic0rangetesttweak
-Version: 1.0.7-3+debug
-Architecture: iphoneos-arm
-Maintainer: WatchersGrim
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.watchersgrim.chronic0rangetesttweak_1.0.7_iphoneos-arm.deb
-Size: 5678
-MD5sum: f7b10de47c4dc8786fa35932515126bc
-SHA1: f9384831b13ef12c58afcf4de19afc05383a8d91
-SHA256: 7fac625f09b5d991f1bb3015f664f34bc259815d2f1aeb22a53ec7a05e00708a
-Section: Tweaks
-Description: Testing Tweak
-Author: WatchersGrim
-Depiction: https://watchersgrim.github.io/depictions/?p=com.watchersgrim.chronic0rangetesttweak
-Name: Chronic0range Test Tweak
-
 Package: com.watchersgrim.citrussb
 Version: 0.0.3
 Architecture: iphoneos-arm

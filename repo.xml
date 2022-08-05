@@ -8,7 +8,7 @@
 		<link>
 			<name>Check out my Twitch</name>
 			<url>https://twitch.tv/watchersgrim</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>fa fa-twitch</iconclass>
 		</link>
 	</footerlinks>
 </repo>
