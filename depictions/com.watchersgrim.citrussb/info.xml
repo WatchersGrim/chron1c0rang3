@@ -22,5 +22,10 @@
 			<url>https://watchersgrim.github.io</url>
 			<iconclass>fa fa-github</iconclass>
 		</link>
+		<link>
+			<name>WatchersGrim's twitch</name>
+			<url>https://twitch.tv/WatchersGrim</url>
+			<iconclass>fa fa-twitch</iconclass>
+		</link>
 	</links>
 </package>
