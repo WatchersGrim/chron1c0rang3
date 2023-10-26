@@ -3,8 +3,6 @@
 		<version>0.0.1</version>
 		<change>Initial Release</change>
 		<version>0.0.3</version>
-		<change>There was an issue where the text put into the CitrusSBPref settings page would not save and change carrier text if just respringing after typing. 
-		
-To counter this, the tweak will now work if pressing return or scrolling the page as it hides the keyboard completing the text input.</change>
+		<change>There was an issue where the text put into the CitrusSBPref settings page would not save and change carrier text if just respringing after typing. To counter this, the tweak will now work if pressing return or scrolling the page as it hides the keyboard completing the text input.</change>
 	</changes>
 </changelog>
