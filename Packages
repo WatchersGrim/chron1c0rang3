@@ -10,7 +10,7 @@ MD5sum: 5238db1a3311f9aedd4583f23e3cae8e
 SHA1: f577369b7ab75e05c9e28007b58b31937f40fbb0
 SHA256: 75019161b66f3d0f31ea47ca8ce8be49d7b171ceb5755787d6141d63eba0b359
 Section: Tweaks
-Description: A tweak to allow you to edit your carrier text.
+Description: CitrusSB is a tweak that allows you to modify the carrier text for your iDevice. Allows use of text and emojis.*NOTE* MUST PRESS RETURN TO CLOSE KEYBOARD AND ALLOW CHANGES TO BE KEPT. 
 Author: WatchersGrim
 Name: CitrusSB
 
